@@ -9,5 +9,5 @@
   > Dorothy followed her through many of the beautiful rooms in her castle.
   >
   > > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
-  > > My favorite website is [Vietcetera] (https://vietcetera.com/)
-  > > ![This is my university and I miss it dearly] (https://i0.wp.com/www.jweekly.com/wp-content/uploads/2017/05/Krause_Entrance-crop-e1605750074769.jpg?resize=1280%2C720px&ssl=1)
+  - My favorite website is [Vietcetera] (https://vietcetera.com/)
+  - ![This is my university and I miss it dearly] (https://i0.wp.com/www.jweekly.com/wp-content/uploads/2017/05/Krause_Entrance-crop-e1605750074769.jpg?resize=1280%2C720px&ssl=1)
